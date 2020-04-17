@@ -1,13 +1,15 @@
 # Semana OminiStack 8
 
+<h5 align="center">
+    <img alt="Logo" src="./web/src/assets/logo.svg" width="150px" />
+</h5>
+
 <p>Tindev, aplicação desenvolvida durante a semana OmniStack 8 realizada pela Rocketseat. Com melhorias realizadas no tratamento de erros e responsividade.</p>
 
 
 
 ## Descrição:
-<h5 align="center">
-    <img alt="Logo" src="./web/src/assets/logo.svg" width="100px" />
-</h5>
+
 <p> Tomando por inspiração o Tinder, a aplicação provê um Tinder para desenvolvedores, onde o registro é feito através do usuário do Github, é possível dar likes e deslikes nos desenvolvedores registrados, e em caso de match ambos os desenvolvedores são notificados em tempo real! </p>
 
 ### Tenologias:
