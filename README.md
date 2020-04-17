@@ -22,7 +22,7 @@
 
 ## Screenshots:
 
-### Versão Web:
+### Versão Web 🖥:
 <p align="center">
 Tela de login:
 <img alt="Tela de login" src="./screenshots/web-01-login.png"/>
@@ -39,7 +39,7 @@ Feedback Match:
 </p>
 
 
-### Versão Mobile:
+### Versão Mobile 📱:
 
 <p align="center">Tela de login:</p>
 <p align="center">
