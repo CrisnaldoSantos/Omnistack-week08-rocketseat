@@ -44,15 +44,15 @@ Feedback Match:
 <p align="center">Tela de login:</p>
 <p align="center">
 <img alt="Tela de login" src="./screenshots/mobile-01-login.png"
-height="200px"/>
+height="350px"/>
 </p>
 
 <p align="center">Tela Home:</p>
 <p align="center">
-<img alt="Tela Home" src="./screenshots/mobile-01-main.png" height="200px" />
+<img alt="Tela Home" src="./screenshots/mobile-01-main.png" height="350px" />
 </p>
 
 <p align="center">Feedback Match:</p>
 <p align="center">
-<img alt="Feedback Match" src="./screenshots/mobile-03-match.png" height="200px"/>
+<img alt="Feedback Match" src="./screenshots/mobile-03-match.png" height="350px"/>
 </p>
