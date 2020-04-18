@@ -5,7 +5,7 @@
 </h5>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CrisnaldoSantos/Omnistack-week10-rocketseat?color=df4723">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CrisnaldoSantos/Omnistack-week08-rocketseat?color=df4723">
 
   <a href="https://www.crisnaldocarvalho.com.br">
     <img alt="Made by Crisnaldo" src="https://img.shields.io/badge/made%20by-Crisnaldo Carvalho-df4723">
@@ -13,7 +13,7 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-df4723">
 
-  <a href="https://github.com/CrisnaldoSantos/Omnistack-week11-rocketseat/stargazers">
+  <a href="https://github.com/CrisnaldoSantos/Omnistack-week08-rocketseat/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/CrisnaldoSantos/Omnistack-week10-rocketseat?style=social">
   </a>
 </p>
