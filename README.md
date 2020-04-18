@@ -4,6 +4,20 @@
     <img alt="Logo" src="./web/src/assets/logo.svg" width="150px" />
 </h5>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CrisnaldoSantos/Omnistack-week10-rocketseat?color=df4723">
+
+  <a href="https://www.crisnaldocarvalho.com.br">
+    <img alt="Made by Crisnaldo" src="https://img.shields.io/badge/made%20by-Crisnaldo Carvalho-df4723">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-df4723">
+
+  <a href="https://github.com/CrisnaldoSantos/Omnistack-week11-rocketseat/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/CrisnaldoSantos/Omnistack-week10-rocketseat?style=social">
+  </a>
+</p>
+
 <p>Tindev, aplicação desenvolvida durante a semana OmniStack 8 realizada pela Rocketseat. Com melhorias realizadas no tratamento de erros e responsividade.</p>
 
 
@@ -49,10 +63,19 @@ height="350px"/>
 
 <p align="center">Tela Home:</p>
 <p align="center">
-<img alt="Tela Home" src="./screenshots/mobile-01-main.png" height="350px" />
+<img alt="Tela Home" src="./screenshots/mobile-01-login.png" height="350px" />
 </p>
 
 <p align="center">Feedback Match:</p>
 <p align="center">
 <img alt="Feedback Match" src="./screenshots/mobile-03-match.png" height="350px"/>
 </p>
+
+
+## Licença:
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ by Crisnaldo Carvalho in Estância/SE
